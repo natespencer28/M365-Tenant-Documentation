@@ -65,15 +65,22 @@ Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spe
 
 ### 🔹 Mock Groups
 - Created **mock organizational groups** for policy scoping and testing:
-  - `IT_Admins`
-  - `HR_Team`
-  - `Finance_Department`
-  - `Executives`
+
+ <img width="309" height="263" alt="image" src="https://github.com/user-attachments/assets/3e470fe1-3549-4ee3-b678-673d2c05380d" />
+
 
 ### 🔹 Password Management
 - **Reset all user passwords** using a PowerShell script for consistent lab access.  
-- Script used: [`BulkPasswordChange.ps1`](../05_Automation/graph_api_scripts/BulkPasswordChange.ps1)  
+- Script used: [`BulkPasswordChange.ps1`](../05_Automation/graph_api_scripts/BulkPasswordChange.ps1)
+
+<img width="1025" height="1006" alt="Updateuserpasswords" src="https://github.com/user-attachments/assets/9b62cd25-db3a-401b-8172-a2a0f8846788" />
+
 - Documented all credentials securely for reference during testing.
+- Configured SSPR as well for self-service password resets.
+
+- <img width="388" height="165" alt="image" src="https://github.com/user-attachments/assets/c9b5197c-a523-4864-bb7c-7151a1dbca91" />
+
+  
 
 ---
 
