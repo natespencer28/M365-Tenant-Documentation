@@ -18,9 +18,9 @@ This project documents the end-to-end implementation of a secure Microsoft 365 t
 ## 📊 Progress Tracker
 | Area | Status | Notes |
 |------|---------|-------|
-| Entra ID | ✅ Complete | Conditional Access and RBAC done |
+| Entra ID | 🚧 In Progress | Conditional Access and RBAC done |
 | Intune | 🚧 In Progress | Patch Rings & Compliance pending |
-| Defender | 🟡 Partial | MDE Configured, MDCA Integration next |
+| Defender | 🚧 In Progress | MDE Configured, MDCA Integration next |
 
 ## 💬 Collaboration
 Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spencer-133903153)
