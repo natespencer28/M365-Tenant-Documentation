@@ -58,6 +58,7 @@ Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spe
 
 ### 🔹 Session Timeout
 - Configured **idle session timeout** to **45 minutes** to reduce exposure from inactive sessions.
+- (Will configure other Conditional Access policies for sign-in frequency and persistant browswer sessions in other documentation...)
 
 ### 🔹 Licensing
 - Established a **Group-Based Licensing Policy**:  
