@@ -58,3 +58,9 @@
 <img width="387" height="188" alt="image" src="https://github.com/user-attachments/assets/369048cc-f8d6-403a-a4bc-f085967a342a" />
 
 <img width="388" height="165" alt="image" src="https://github.com/user-attachments/assets/c9b5197c-a523-4864-bb7c-7151a1dbca91" />
+
+  
+
+---
+
+> 🧠 **Note:** These configurations lay the foundation for identity hygiene, Zero Trust enforcement, and future Conditional Access and compliance testing.
