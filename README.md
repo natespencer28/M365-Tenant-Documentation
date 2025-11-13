@@ -13,7 +13,7 @@ This project documents the end-to-end implementation of a secure Microsoft 365 t
 - Entra ID (Azure AD)
 - Intune Device Management
 - Microsoft Defender Suite
-- CIS Benchmark Validation
+- **[CIS Benchmark Validation](https://github.com/natespencer28/CIS-Benchmark-Validation/tree/main)
 - **[M365 Automation](https://github.com/natespencer28/M365_Automation)**
 
 ## 📊 Progress Tracker
